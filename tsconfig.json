@@ -1,0 +1,27 @@
+{
+    "include": ["src/**/*.ts"],
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonJs",
+      "strict": true,
+      "noImplicitAny": true,
+      "noImplicitOverride": true,
+      "rootDir": "src",
+      "outDir": ".build",
+      "sourceMap": true,
+      "pretty": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "removeComments": true,
+      "strictBindCallApply": true,
+      "strictFunctionTypes": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "noFallthroughCasesInSwitch": true,
+      "noUncheckedIndexedAccess": true,
+      "esModuleInterop": true,
+      "noEmitOnError": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+    }
+}

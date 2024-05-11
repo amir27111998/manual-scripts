@@ -1,0 +1,7 @@
+node_modules
+logs
+.build
+.env
+src/scripts/**
+!src/scripts/DemoScript.ts
+!src/scripts/ScriptRunnerInterface.ts
